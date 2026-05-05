@@ -1,0 +1,666 @@
+; Core Asterisk Sounds in Czech (Čeština)
+; Generated using Piper TTS (cs_CZ-jirka-medium)
+; Sample rate: 22050 Hz, mono, 16-bit PCM WAV
+; Total entries: 661
+;
+a-m: dopoledne
+activated: Aktivováno.
+added: Přidáno.
+agent-alreadyon: Tento operátor je již přihlášen. Zadejte své číslo operátora a stiskněte mřížku.
+agent-incorrect: Přihlášení se nezdařilo. Zadejte své číslo operátora a stiskněte mřížku.
+agent-loggedoff: Operátor byl odhlášen.
+agent-login: Přihlášení operátora. Zadejte své číslo operátora a stiskněte mřížku.
+agent-loginok: Operátor byl přihlášen.
+agent-logoff: Operátor byl odhlášen.
+agent-newlocation: Zadejte nové číslo a stiskněte mřížku.
+agent-pass: Zadejte své heslo a stiskněte mřížku.
+agent-user: Přihlášení operátora. Zadejte své číslo operátora a stiskněte mřížku.
+all-circuits-busy-now: Všechny linky jsou nyní obsazeny.
+areminder-1c-2n: Stiskněte 1 pro potvrzení nebo 2 pro odložení.
+areminder-cancel: Stiskněte 3 pro zrušení této schůzky.
+areminder-cancelled: Schůzka byla zrušena.
+areminder-confirm: Stiskněte 1 pro potvrzení této schůzky.
+areminder-confirmed: Schůzka byla potvrzena.
+areminder-for: Připomínka pro
+areminder-greeting: Dobrý den, zde je automatická připomínka schůzky.
+areminder-greeting2: Voláme vám, abychom vám připomněli vaši schůzku.
+areminder-instructions: Stiskněte 1 pro potvrzení, 2 pro odložení nebo 3 pro zrušení.
+areminder-reschedule: Stiskněte 2 pro odložení této schůzky.
+areminder-reschedule-callback: Někdo vám zavolá zpět, aby s vámi domluvil nový termín.
+areminder-summary: Vaše schůzka je naplánována na
+areminder-summary-instructions: Stiskněte hvězdičku pro zopakování zprávy.
+areminder-summary2: Děkujeme. Na shledanou.
+areminder-transfer: Pro přepojení na operátora stiskněte nulu.
+ascending-2tone: 
+astcc-followed-by-pound: a poté stiskněte mřížku.
+astcc-followed-by-the-pound-key: a poté stiskněte mřížku.
+at: v
+at-tone-time-exactly: V okamžiku zaznění tónu bude přesný čas...
+auth-incorrect: Nesprávné heslo. Zadejte heslo a stiskněte mřížku.
+auth-thankyou: Děkujeme.
+beep: 
+beeperr: 
+call-forwarding: Přesměrování hovorů.
+call-fwd-no-ans: Přesměrování při nedostupnosti.
+call-fwd-on-busy: Přesměrování při obsazení.
+call-fwd-unconditional: Bezpodmínečné přesměrování všech hovorů.
+call-waiting: Čekající hovor.
+calling: Volám.
+cancelled: Zrušeno.
+cannot-complete-as-dialed: Volaný hovor nelze uskutečnit.
+cdir-matching-entries-continue: odpovídajících záznamů. Pro pokračování stiskněte 1.
+cdir-matching-entries-or-pound: odpovídajících záznamů. Pokračujte zadáváním nebo stiskněte mřížku.
+cdir-please-enter-first-three: Prosím, zadejte první tři písmena jména osoby, kterou hledáte.
+cdir-sorry-no-entries: Bohužel, nebyly nalezeny žádné záznamy.
+cdir-there-are: V telefonním seznamu jsou
+cdir-transferring-further-assistance: Přepojuji vás na další pomoc.
+cdir-welcome: Vítejte v telefonním seznamu.
+check-number-dial-again: Prosím zkontrolujte číslo a vytočte je znovu.
+conf-adminmenu: Stiskněte 1 pro vypnutí nebo zapnutí mikrofonu, 2 pro uzamčení nebo odemčení konference, 3 pro vyřazení posledního účastníka, 4 nebo 6 pro snížení nebo zvýšení hlasitosti konference, 7 nebo 9 pro snížení nebo zvýšení vašeho hlasu, nebo 8 pro ukončení.
+conf-adminmenu-162: Stiskněte 1 pro vypnutí nebo zapnutí mikrofonu, 2 pro uzamčení nebo odemčení konference, 3 pro vyřazení posledního účastníka, 4 nebo 6 pro snížení nebo zvýšení hlasitosti konference, 5 pro prodloužení konference, 7 nebo 9 pro snížení nebo zvýšení vašeho hlasu, nebo 8 pro ukončení.
+conf-adminmenu-18: Stiskněte 1 pro vypnutí nebo zapnutí mikrofonu, 2 pro uzamčení nebo odemčení konference, 3 pro vyřazení posledního účastníka, 4 nebo 6 pro snížení nebo zvýšení hlasitosti konference, 5 pro prodloužení konference, 7 nebo 9 pro snížení nebo zvýšení vašeho hlasu, nebo 8 pro další možnosti.
+conf-adminmenu-menu8: Stiskněte 1 pro výpis aktuálních účastníků konference, 2 pro vyřazení všech neadministrátorských účastníků, 3 pro vypnutí nebo zapnutí mikrofonu všem neadministrátorským účastníkům, 4 pro nahrávání konference, nebo 8 pro návrat do konference.
+conf-enteringno: Vstupujete do konference číslo
+conf-errormenu: Neplatná volba.
+conf-extended: Konference byla prodloužena.
+conf-full: Tato konference je plně obsazena.
+conf-getchannel: Zadejte číslo kanálu a stiskněte mřížku.
+conf-getconfno: Zadejte číslo konference a stiskněte mřížku.
+conf-getpin: Zadejte PIN konference.
+conf-hasjoin: se připojil ke konferenci.
+conf-hasleft: opustil konferenci.
+conf-invalid: Neplatné číslo konference, zkuste to znovu.
+conf-invalidpin: Nesprávný PIN.
+conf-kicked: Byli jste vyřazeni z konference.
+conf-leaderhasleft: Vedoucí konferenci opustil.
+conf-locked: Tato konference je uzamčena.
+conf-lockednow: Konference je nyní uzamčena.
+conf-muted: Váš mikrofon je vypnut.
+conf-noempty: Nejsou k dispozici žádné prázdné konference.
+conf-nonextended: Konferenci nelze prodloužit.
+conf-now-muted: Konference je nyní ztlumena.
+conf-now-recording: Konference se nyní nahrává.
+conf-now-unmuted: Konference již není ztlumena.
+conf-onlyone: V konferenci je pouze jeden účastník.
+conf-onlyperson: Jste prvním účastníkem konference.
+conf-otherinparty: dalších účastníků.
+conf-placeintoconf: Nyní budete připojeni ke konferenci.
+conf-roll-callcomplete: Výpis účastníků byl dokončen.
+conf-thereare: V konferenci je nyní
+conf-unlockednow: Konference je nyní odemčena.
+conf-unmuted: Váš mikrofon je zapnut.
+conf-usermenu: Stiskněte 1 pro vypnutí nebo zapnutí mikrofonu, 4 nebo 6 pro snížení nebo zvýšení hlasitosti konference, 7 nebo 9 pro snížení nebo zvýšení vašeho hlasu, nebo 8 pro ukončení.
+conf-usermenu-162: Stiskněte 1 pro vypnutí nebo zapnutí mikrofonu, 2 pro uzamčení nebo odemčení konference, 3 pro vyřazení posledního účastníka, 4 nebo 6 pro snížení nebo zvýšení hlasitosti, 5 pro prodloužení konference, 7 nebo 9 pro snížení nebo zvýšení vašeho hlasu, nebo 8 pro ukončení.
+conf-userswilljoin: uživatelů se připojí ke konferenci.
+conf-userwilljoin: uživatel se připojí ke konferenci.
+conf-waitforleader: Konference začne, jakmile se připojí vedoucí.
+confbridge-begin-glorious-a: konference začne, jakmile se připojí náš vážený vedoucí
+confbridge-begin-glorious-b: konference začne, jakmile se připojí náš vážený vedoucí
+confbridge-begin-glorious-c: konference začne, jakmile se připojí náš vážený vedoucí
+confbridge-begin-leader: konference začne, jakmile se připojí vedoucí.
+confbridge-conf-begin: Konference nyní začíná.
+confbridge-conf-end: Konference byla ukončena.
+confbridge-dec-list-vol-in: Pro snížení hlasitosti ostatních účastníků...
+confbridge-dec-list-vol-out: ...pro snížení hlasitosti ostatních účastníků.
+confbridge-dec-talk-vol-in: Pro snížení hlasitosti vašeho hlasu...
+confbridge-dec-talk-vol-out: ...pro snížení hlasitosti vašeho hlasu.
+confbridge-has-joined: ...se připojil ke konferenci.
+confbridge-has-left: ...opustil konferenci.
+confbridge-inc-list-vol-in: Pro zvýšení hlasitosti ostatních účastníků...
+confbridge-inc-list-vol-out: ...pro zvýšení hlasitosti ostatních účastníků.
+confbridge-inc-talk-vol-in: Pro zvýšení hlasitosti vašeho hlasu...
+confbridge-inc-talk-vol-out: ...pro zvýšení hlasitosti vašeho hlasu.
+confbridge-invalid: Zadali jste neplatnou volbu.
+confbridge-join: Připojení do konference.
+confbridge-leave: Opuštění konference.
+confbridge-leave-in: Pro opuštění konference...
+confbridge-leave-out: ...pro opuštění konference.
+confbridge-lock-extended: ...pro uzamčení nebo odemčení konference. Když je konference uzamčena, mohou se připojit pouze administrátoři.
+confbridge-lock-in: Pro uzamčení nebo odemčení konference...
+confbridge-lock-no-join: Konference je uzamčena, není možné se připojit.
+confbridge-lock-out: ...pro uzamčení nebo odemčení konference.
+confbridge-locked: Konference je uzamčena.
+confbridge-menu-exit-in: Pro ukončení nabídky...
+confbridge-menu-exit-out: ...pro ukončení nabídky.
+confbridge-mute-extended: ...pro vypnutí nebo zapnutí vašeho mikrofonu. Když je mikrofon vypnut, slyšíte ostatní účastníky, ale oni vás neslyší.
+confbridge-mute-in: Pro vypnutí nebo zapnutí vašeho mikrofonu...
+confbridge-mute-out: ...pro vypnutí nebo zapnutí vašeho mikrofonu.
+confbridge-muted: Váš mikrofon je vypnut.
+confbridge-only-one: V konferenci je nyní pouze jeden účastník.
+confbridge-only-participant: Jste jediným účastníkem konference.
+confbridge-participants: ...účastníků v konferenci.
+confbridge-pin: Prosím zadejte PIN a stiskněte mřížku.
+confbridge-pin-bad: Překročili jste maximální počet pokusů o zadání PINu.
+confbridge-remove-last-in: Pro odebrání posledního účastníka, který se připojil...
+confbridge-remove-last-out: ...pro odebrání posledního účastníka, který se připojil.
+confbridge-removed: Byli jste odebráni z konference.
+confbridge-rest-list-vol-in: Pro obnovení původní hlasitosti konference...
+confbridge-rest-list-vol-out: ...pro obnovení původní hlasitosti konference.
+confbridge-rest-talk-vol-in: Pro obnovení původní hlasitosti vašeho mikrofonu...
+confbridge-rest-talk-vol-out: ...pro obnovení původní hlasitosti vašeho mikrofonu.
+confbridge-there-are: V konferenci je nyní...
+confbridge-unlocked: Konference byla odemčena.
+confbridge-unmuted: Váš mikrofon je zapnut.
+dash: pomlčka
+de-activated: Deaktivováno.
+demo-echodone: Test echa byl ukončen.
+demo-echotest: Toto je test echa. Mluvte a uslyšíte svůj hlas zpět. Pro ukončení stiskněte mřížku.
+descending-2tone: 
+dictate/both_help: Stiskněte hvězdičku pro pauzu. Stiskněte mřížku pro zadání nového názvu souboru.
+dictate/enter_filename: Zadejte číselný název souboru a stiskněte mřížku. Pro ukončení nabídky stiskněte pouze mřížku.
+dictate/forhelp: Pro nápovědu stiskněte nulu.
+dictate/pause: Pauza.
+dictate/paused: Pozastaveno.
+dictate/play_help: Stiskněte 1 pro režim záznamu. Stiskněte 2 pro rychlé přehrávání. Stiskněte 7 pro krok zpět. Stiskněte 8 pro krok vpřed.
+dictate/playback: Přehrávání.
+dictate/playback_mode: Režim přehrávání.
+dictate/record: Záznam.
+dictate/record_help: Stiskněte 1 pro režim přehrávání. Stiskněte 8 pro nový záznam.
+dictate/record_mode: Režim záznamu.
+dictate/truncating_audio: Ořezávání zvuku.
+dictation-being-processed: Vaše diktování se zpracovává.
+dictation-sent: Diktování bylo odesláno.
+digits/0: nula
+digits/1: jedna
+digits/10: deset
+digits/11: jedenáct
+digits/12: dvanáct
+digits/13: třináct
+digits/14: čtrnáct
+digits/15: patnáct
+digits/16: šestnáct
+digits/17: sedmnáct
+digits/18: osmnáct
+digits/19: devatenáct
+digits/1_E3: tisíc
+digits/1_E6: milion
+digits/1_E9: miliarda
+digits/1m: jeden
+digits/1sto: jedno sto
+digits/1w: jedna
+digits/2: dva
+digits/2-4_E3: tisíce
+digits/2-4_E6: miliony
+digits/2-4_E9: miliardy
+digits/20: dvacet
+digits/2m: dva
+digits/2ste: dvě stě
+digits/2w: dvě
+digits/3: tři
+digits/30: třicet
+digits/4: čtyři
+digits/40: čtyřicet
+digits/5: pět
+digits/50: padesát
+digits/5_E3: tisíc
+digits/5_E6: milionů
+digits/5_E9: miliard
+digits/6: šest
+digits/60: šedesát
+digits/7: sedm
+digits/70: sedmdesát
+digits/8: osm
+digits/80: osmdesát
+digits/9: devět
+digits/90: devadesát
+digits/a-m: dopoledne
+digits/at: v
+digits/billion: miliarda
+digits/day-0: neděle
+digits/day-1: pondělí
+digits/day-2: úterý
+digits/day-3: středa
+digits/day-4: čtvrtek
+digits/day-5: pátek
+digits/day-6: sobota
+digits/dollar: dolar
+digits/dollars: dolarů
+digits/h-1: první
+digits/h-10: desátého
+digits/h-11: jedenáctého
+digits/h-12: dvanáctého
+digits/h-13: třináctého
+digits/h-14: čtrnáctého
+digits/h-15: patnáctého
+digits/h-16: šestnáctého
+digits/h-17: sedmnáctého
+digits/h-18: osmnáctého
+digits/h-19: devatenáctého
+digits/h-2: druhého
+digits/h-20: dvacátého
+digits/h-3: třetího
+digits/h-30: třicátého
+digits/h-4: čtvrtého
+digits/h-40: čtyřicátého
+digits/h-5: pátého
+digits/h-50: padesátého
+digits/h-6: šestého
+digits/h-60: šedesátého
+digits/h-7: sedmého
+digits/h-70: sedmdesátého
+digits/h-8: osmého
+digits/h-80: osmdesátého
+digits/h-9: devátého
+digits/h-90: devadesátého
+digits/h-billion: miliard
+digits/h-hundred: set
+digits/h-million: milionů
+digits/h-thousand: tisíc
+digits/hours: hodin
+digits/hundred: sto
+digits/million: milion
+digits/minus: mínus
+digits/minutes: minut
+digits/mon-0: ledna
+digits/mon-1: února
+digits/mon-10: listopadu
+digits/mon-11: prosince
+digits/mon-2: března
+digits/mon-3: dubna
+digits/mon-4: května
+digits/mon-5: června
+digits/mon-6: července
+digits/mon-7: srpna
+digits/mon-8: září
+digits/mon-9: října
+digits/oclock: hodin
+digits/oh: nula
+digits/p-m: odpoledne
+digits/pound: mřížka
+digits/seconds: sekund
+digits/set: set
+digits/sta: sto
+digits/star: hvězdička
+digits/thousand: tisíc
+digits/today: dnes
+digits/tomorrow: zítra
+digits/yesterday: včera
+dir-first: písmena křestního jména volaného účastníka.
+dir-firstlast: ...písmena ze jména nebo příjmení volaného účastníka.
+dir-instr: Pokud jste nalezli hledanou osobu, stiskněte 1. Pokud ne, stiskněte hvězdičku.
+dir-intro: Vítejte v telefonním seznamu. Pomocí klávesnice zadejte první tři písmena příjmení volaného účastníka. Pro písmeno Q použijte klávesu 7 a pro Z klávesu 9.
+dir-intro-fn: Vítejte v telefonním seznamu. Pomocí klávesnice zadejte první tři písmena křestního jména volaného účastníka. Pro písmeno Q použijte klávesu 7 a pro Z klávesu 9.
+dir-last: ...písmena z příjmení volaného účastníka.
+dir-multi1: Stiskněte...
+dir-multi2: ...pro...
+dir-multi3: ...vnitřní číslo...
+dir-multi9: Stiskněte 9 pro pokračování seznamu.
+dir-nomatch: K vašemu dotazu nebyl v seznamu nalezen žádný záznam.
+dir-nomore: Žádné další podobné záznamy nejsou k dispozici.
+dir-pls-enter: Prosím, zadejte první...
+dir-usingkeypad: ...pro Q použijte 7 a pro Z použijte 9.
+dir-welcome: Vítejte v telefonním seznamu.
+disabled: Vypnuto.
+do-not-disturb: Nerušit.
+dollar: dolar
+dollars: dolarů
+dot: tečka
+enabled: Zapnuto.
+enter-filename-short: Zadejte název souboru.
+enter-num-blacklist: Zadejte číslo, které chcete přidat do černé listiny.
+entr-num-rmv-blklist: Zadejte číslo, které chcete odebrat z černé listiny.
+equals: rovná se
+exclaimation-point: vykřičník
+exited-vm-will-be-transfered: Opouštíte hlasovou poštu. Budete přepojeni.
+extension: Linka.
+feature-not-avail-line: Tato služba není na této lince k dispozici.
+featurecode: Kód funkce.
+followme: Sledování hovoru.
+followme/call-from: Příchozí hovor od
+followme/followme: Sledování hovoru.
+followme/no-recording: Příchozí hovor.
+followme/options: Prosím stiskněte 1 pro přijetí hovoru, nebo 2 pokud nechcete hovor přijmout.
+followme/pls-hold-while-try: Prosím počkejte. Pokoušíme se vás spojit.
+followme/sorry: Bohužel, hovor nelze v tuto chvíli spojit.
+followme/status: Účastník neodpovídá. Systém se pokouší spojit s účastníkem alternativními kanály.
+for: pro
+from-unknown-caller: Z neznámého čísla.
+goodbye: Na shledanou!
+hello: Dobrý den!
+hello-world: Ahoj, světe.
+hours: hodin
+if-correct-press: Pokud je to správně, stiskněte...
+im-sorry: Bohužel.
+incoming-call-1-accept-2-decline: Příchozí hovor. Stiskněte 1 pro přijetí, nebo 2 pro odmítnutí.
+incoming-call-no-longer-avail: Příchozí hovor již není k dispozici.
+info-about-last-call: Informace o vašem posledním hovoru.
+intercom: Interkom.
+invalid: Neplatné číslo. Zkuste to prosím znovu.
+is: je
+is-in-use: se používá.
+is-set-to: je nastaveno na
+jednu: jednu
+letters/a: á
+letters/ascii123: levá složená závorka
+letters/ascii124: svislá čára
+letters/ascii125: pravá složená závorka
+letters/ascii126: tilda
+letters/ascii34: uvozovky
+letters/ascii36: dolar
+letters/ascii37: procento
+letters/ascii38: ampersand
+letters/ascii39: apostrof
+letters/ascii40: levá závorka
+letters/ascii41: pravá závorka
+letters/ascii42: hvězdička
+letters/ascii44: čárka
+letters/ascii58: dvojtečka
+letters/ascii59: středník
+letters/ascii60: menší než
+letters/ascii62: větší než
+letters/ascii63: otazník
+letters/ascii91: levá hranatá závorka
+letters/ascii92: zpětné lomítko
+letters/ascii93: pravá hranatá závorka
+letters/ascii94: stříška
+letters/ascii95: podtržítko
+letters/ascii96: zpětný apostrof
+letters/asterisk: hvězdička
+letters/at: zavináč
+letters/b: bé
+letters/c: cé
+letters/d: dé
+letters/dash: pomlčka
+letters/dollar: dolar
+letters/dollars: dolarů
+letters/dot: tečka
+letters/e: é
+letters/equals: rovná se
+letters/exclaimation-point: vykřičník
+letters/f: ef
+letters/g: gé
+letters/h: há
+letters/i: í
+letters/j: jé
+letters/k: ká
+letters/l: el
+letters/m: em
+letters/n: en
+letters/o: ó
+letters/p: pé
+letters/plus: plus
+letters/q: kvé
+letters/r: er
+letters/s: es
+letters/slash: lomítko
+letters/space: mezera
+letters/t: té
+letters/u: ú
+letters/v: vé
+letters/w: dvojité vé
+letters/x: iks
+letters/y: ypsilon
+letters/z: zet
+letters/zed: zet
+line-busy-transfer-menu: Linka je obsazena. Pro přepojení do nabídky stiskněte 1.
+location: Místo.
+lowercase: malá písmena
+minutes: minut
+no-valid-responce-pls-try-again: Nezachytili jsme platnou odpověď. Zkuste to prosím znovu.
+no-valid-responce-transfering: Nezachytili jsme platnou odpověď. Přepojuji.
+num-was-successfully: Číslo bylo úspěšně...
+number: Číslo.
+number-not-answering: Číslo neodpovídá.
+one-moment-please: Okamžik prosím.
+pbdirectory-first-three-letters-entry: ...první tři písmena záznamu.
+pbdirectory-if-correct-press: Pokud je to správně, stiskněte...
+pbdirectory-if-incorrect-press: Pokud je to nesprávně, stiskněte...
+pbdirectory-welcome-to-phonebook: Vítejte v telefonním seznamu.
+pbx-invalid: Bohužel, toto číslo neexistuje. Zkuste to prosím znovu.
+pbx-invalidpark: Bohužel, žádný odložený hovor s tímto číslem nebyl nalezen.
+pbx-parkingfailed: Pokus o odložení hovoru se nezdařil.
+pbx-transfer: Přepojení.
+phonetic/9_p: niner
+phonetic/a_p: alfa
+phonetic/at: zavináč
+phonetic/b_p: bravo
+phonetic/c_p: charlie
+phonetic/d_p: delta
+phonetic/e_p: echo
+phonetic/f_p: foxtrot
+phonetic/g_p: golf
+phonetic/h_p: hotel
+phonetic/i_p: indie
+phonetic/j_p: juliet
+phonetic/k_p: kilo
+phonetic/l_p: lima
+phonetic/m_p: mike
+phonetic/n_p: november
+phonetic/o_p: oskar
+phonetic/p_p: papa
+phonetic/q_p: kvebek
+phonetic/r_p: romeo
+phonetic/s_p: sierra
+phonetic/t_p: tango
+phonetic/u_p: uniform
+phonetic/v_p: viktor
+phonetic/w_p: viskey
+phonetic/x_p: iks rej
+phonetic/y_p: jenki
+phonetic/z_p: zulu
+please-enter-your-extension-then-press-pound: Prosím zadejte vaši linku a poté stiskněte mřížku.
+please-try-again: Prosím zkuste to znovu.
+please-try-call-later: Prosím zkuste zavolat později.
+plus: plus
+pm-invalid-option: Tato volba není k dispozici. Zkuste to znovu.
+pound: mřížka
+press-1: Stiskněte 1.
+press-2: Stiskněte 2.
+press-3: Stiskněte 3.
+press-star: Stiskněte hvězdičku.
+priv-callee-options: Stiskněte 1, pokud chcete, aby se s vámi tento volající mohl spojit kdykoliv. Stiskněte 2, pokud chcete, aby byl tento volající přepojen do hlasové schránky. Stiskněte 3 pro přepojení do menu vyzvánění. Stiskněte 4 pro přepojení do menu zdvořilého odmítnutí hovoru. Stiskněte 5, aby vás tento volající mohl kontaktovat napřímo, ale tentokrát byl přepojen do hlasové schránky.
+priv-callpending: Na lince čeká volající, který se představil jako…
+priv-introsaved: Děkujeme. Zůstaňte na lince. Probíhá spojování.
+priv-recordintro: Prosím představte se.
+privacy-incorrect: Bohužel, je to neplatné číslo.
+privacy-prompt: Zadejte vaše telefonní číslo, počínaje předvolbou.
+privacy-thankyou: Děkujeme.
+privacy-to-blacklist-last-caller: Posledního volajícího...
+privacy-unident: Volaný účastník nepřijímá hovory z neznámých čísel.
+queue-callswaiting: Prosím vyčkejte, operátor se vám brzy bude věnovat.
+queue-holdtime: Předpokládaná doba čekání je
+queue-less-than: méně než
+queue-minute: minuta
+queue-minutes: minut
+queue-periodic-announce: Všichni naši operátoři jsou momentálně obsazeni. Prosím vyčkejte, váš hovor bude přijat prvním dostupným operátorem.
+queue-quantity1: V tuto chvíli více než...
+queue-quantity2: ...čeká na operátora.
+queue-reporthold: doba čekání
+queue-seconds: sekund
+queue-thankyou: Děkujeme za trpělivost.
+queue-thereare: Vaše pozice ve frontě je
+queue-youarenext: Váš hovor je první ve frontě a bude přijat prvním dostupným operátorem.
+removed: Odebráno.
+screen-callee-options: Máte k dispozici tyto možnosti. Stiskněte 1 pro okamžité přijetí tohoto hovoru. Stiskněte 2, pokud chcete, aby byl volající přepojen do hlasové schránky. Stiskněte 3 pro přepojení volajícího do menu vyzvánění. Stiskněte 4 pro přepojení volajícího do menu zdvořilého odmítnutí hovoru.
+seconds: sekund
+silence/1: 
+silence/10: 
+silence/2: 
+silence/3: 
+silence/4: 
+silence/5: 
+silence/6: 
+silence/7: 
+silence/8: 
+silence/9: 
+simul-call-limit-reached: Byl dosažen maximální počet souběžných hovorů.
+slash: lomítko
+sng_mcu: Konferenční jednotka.
+sng_mcu_chime: Tón konference.
+something-terribly-wrong: Něco je úplně špatně!
+sorry-youre-having-problems: Mrzí nás, že máte potíže.
+space: mezera
+speed-dial: Rychlá volba.
+speed-dial-empty: Vybraný záznam v rychlé volbě neexistuje.
+speed-enterlocation: Zadejte pozici v rychlé volbě.
+speed-enternumber: Zadejte číslo pro rychlou volbu.
+spy-agent: agent
+spy-console: konzole
+spy-dahdi: dáchdý
+spy-h323: há tři dva tři
+spy-iax: íax
+spy-iax2: íax
+spy-jingle: džingl
+spy-local: lokální
+spy-mgcp: em gé cé pé
+spy-misdn: em ajesdýen
+spy-mobile: bluetooth mobile
+spy-nbs: en bí es
+spy-sip: sip
+spy-skinny: skiny
+spy-unistim: unistim
+spy-usbradio: usb rádio
+spy-zap: zap
+ss-noservice: Volané číslo není v provozu. Zkontrolujte číslo a zkuste to znovu.
+telephone-number: Telefonní číslo.
+time: Čas.
+to-call-this-number: Pro vytočení tohoto čísla.
+to-change: Pro změnu.
+to-enter-a-diff: Pro zadání jiného.
+to-extension: Na linku.
+to-listen-to-it: Pro poslech.
+to-rerecord-it: Pro nový záznam.
+transfer: Vyčkejte prosím, probíhá přepojení.
+tt-somethingwrong: Něco je tu úplně špatně...
+unidentified-no-callback: Číslo je neidentifikované nebo skryté, proto nelze provést zpětné volání.
+uppercase: velká písmena
+vm-Cust1: složka 5
+vm-Cust2: složka 6
+vm-Cust3: složka 7
+vm-Cust4: složka 8
+vm-Cust5: složka 9
+vm-Family: rodinných
+vm-Friends: od přátel
+vm-INBOX: nových
+vm-Old: starých
+vm-Urgent: důležitých zpráv
+vm-Work: pracovních
+vm-advopts: Stiskněte 3 pro pokročilá nastavení.
+vm-and: a
+vm-calldiffnum: Stiskněte 2 pro zadání jiného čísla.
+vm-changeto: Změnit na kterou složku?
+vm-delete: Stiskněte 7 pro smazání této zprávy.
+vm-deleted: Zpráva byla smazána.
+vm-dialout: Prosím počkejte. Probíhá spojování.
+vm-duration: Délka zprávy
+vm-enter-num-to-call: Zadejte cílové číslo.
+vm-extension: Linka?
+vm-first: první
+vm-for: pro
+vm-forward: Stiskněte 1 pro zadání čísla. Nebo stiskněte 2 pro použití telefonního seznamu.
+vm-forward-multiple: Stiskněte 1 pro odeslání zprávy. Nebo stiskněte 2 pro přidání dalšího příjemce.
+vm-forwardoptions: Stiskněte 1 pro komentář a přeposlání této zprávy, nebo 2 pro přeposlání bez komentáře.
+vm-from: Od
+vm-from-extension: Zpráva od účastníka linky…
+vm-from-phonenumber: Zpráva od účastníka s číslem…
+vm-goodbye: Na shledanou.
+vm-helpexit: Stiskněte hvězdičku pro nápovědu nebo mřížku pro ukončení.
+vm-incorrect: Nesprávné heslo.
+vm-incorrect-mailbox: Nesprávné heslo. Zadejte číslo schránky znovu.
+vm-instructions: Pro přehrání zpráv stiskněte 1. Pro ukončení hlasové schránky stiskněte mřížku kdykoliv.
+vm-intro: Zanechte zprávu po zaznění tónu. Poté stiskněte mřížku nebo zavěste.
+vm-invalid-password: Toto heslo neodpovídá minimálním požadavkům pro tuto schránku. Zkuste to prosím znovu.
+vm-invalidpassword: Toto heslo je neplatné. Zkuste to prosím znovu.
+vm-isonphone: telefonuje
+vm-isunavail: není k dispozici
+vm-last: poslední
+vm-leavemsg: Stiskněte 5 pro zanechání hlasové zprávy.
+vm-login: Hlasová pošta. Číslo schránky?
+vm-mailboxfull: Bohužel, schránka volaného je plná.
+vm-marked-nonurgent: Označení důležitosti bylo zrušeno.
+vm-marked-urgent: Zpráva byla označena jako důležitá.
+vm-message: zpráva
+vm-messages: zpráv
+vm-minutes: minut
+vm-mismatch: Zadaná hesla se neshodují. Zadejte je prosím znovu.
+vm-msgforwarded: Vaše zpráva byla úspěšně přeposlána.
+vm-msginstruct: Pro přehrání další zprávy stiskněte 6. Pro opakování zprávy stiskněte 5. Pro předchozí zprávu stiskněte 4. Pro smazání nebo obnovení zprávy stiskněte 0. Pro ukončení hlasové pošty stiskněte mřížku.
+vm-msgsaved: Zpráva byla uložena.
+vm-newpassword: Zadejte nové heslo a stiskněte mřížku.
+vm-newuser: Vítejte v hlasové poště! Pro začátek si poslechněte návod k nastavení schránky.
+vm-next: Stiskněte 6 pro přehrání další zprávy.
+vm-no: ne
+vm-nobodyavail: Momentálně není nikdo k dispozici, aby přijal váš hovor.
+vm-nobox: Na tuto zprávu nelze odpovědět, protože odesílatel nemá hlasovou schránku.
+vm-nomore: Žádné další zprávy nejsou k dispozici.
+vm-nonumber: Bohužel, odesílatel zprávy je neznámý.
+vm-nove: nové
+vm-novou: novou
+vm-novych: nových
+vm-num-i-have: Mám zaznamenané toto číslo.
+vm-onefor: Stiskněte 1 pro
+vm-onefor-full: Stiskněte 1 pro poslech...
+vm-options: Stiskněte 1 pro nahrání zprávy při stavu nedostupný. Stiskněte 2 pro nahrání zprávy při stavu obsazeno. Stiskněte 3 pro nahrání vašeho jména. Stiskněte 4 pro nahrání dočasné zprávy. Stiskněte 5 pro změnu hesla nebo hvězdičku pro návrat do hlavního menu.
+vm-opts: Stiskněte 2 pro změnu složky. Stiskněte 3 pro pokročilá nastavení. Stiskněte 0 pro nastavení hlasové pošty.
+vm-opts-full: Stiskněte 2 pro poslech zpráv z jiné složky, stiskněte 3 pro nahrání zprávy pro jinou schránku, stiskněte 0 pro správu hesel a uvítání.
+vm-passchanged: Heslo bylo změněno.
+vm-password: Heslo
+vm-pls-try-again: Prosím zkuste to znovu.
+vm-press: Stiskněte
+vm-prev: Stiskněte 4 pro předchozí zprávu.
+vm-reachoper: Stiskněte 0 pro spojení s operátorem.
+vm-rec-busy: Po zaznění tónu nahrajte zprávu pro stav obsazeno a stiskněte mřížku.
+vm-rec-name: Po zaznění tónu vyslovte své jméno a stiskněte mřížku.
+vm-rec-temp: Po zaznění tónu nahrajte dočasnou zprávu a stiskněte mřížku.
+vm-rec-unv: Po zaznění tónu nahrajte zprávu pro stav nedostupný a stiskněte mřížku.
+vm-received: přijato
+vm-record-prepend: Po zaznění tónu nahrajte úvod k přeposílané zprávě. Na konci stiskněte mřížku.
+vm-reenterpassword: Zadejte heslo a stiskněte mřížku.
+vm-repeat: Stiskněte 5 pro zopakování aktuální zprávy.
+vm-review: Stiskněte 1 pro přijetí zprávy, 2 pro její poslech nebo 3 pro nový záznam.
+vm-review-nonurgent: Stiskněte 4 pro zrušení označení této zprávy jako důležité.
+vm-review-urgent: Stiskněte 4 pro označení této zprávy jako důležité.
+vm-saved: Uloženo
+vm-savedto: Uloženo do
+vm-savefolder: Do které složky uložit zprávu?
+vm-savemessage: nebo 9 pro uložení zprávy.
+vm-saveoper: Stiskněte 1 pro přijetí tohoto záznamu. Nebo zůstaňte na lince.
+vm-sorry: Omlouváme se, vaše volba nebyla rozpoznána.
+vm-star-cancel: Pro zrušení stiskněte hvězdičku.
+vm-stare: staré
+vm-starmain: Stiskněte hvězdičku pro návrat do hlavního menu.
+vm-starou: starou
+vm-starych: starých
+vm-tempgreetactive: Vaše dočasné uvítání je nastaveno.
+vm-tempgreeting: Stiskněte 1 pro nahrání dočasného uvítání.
+vm-tempgreeting2: Stiskněte 1 pro přepsání dočasné zprávy, nebo 2 pro její smazání.
+vm-tempremoved: Vaše dočasná zpráva byla smazána.
+vm-then-pound: a poté stiskněte mřížku.
+vm-theperson: Účastník s číslem
+vm-tmpexists: Je aktivována dočasná zpráva, která nahrazuje vaše standardní zprávy.
+vm-tocallback: Stiskněte 2 pro zavolání účastníkovi, který zanechal tuto zprávu.
+vm-tocallnum: Stiskněte 1 pro vytočení tohoto čísla.
+vm-tocancel: nebo mřížku pro zrušení.
+vm-tocancelmsg: Pro zrušení zprávy stiskněte hvězdičku.
+vm-toenternumber: Stiskněte 1 pro zadání čísla.
+vm-toforward: Stiskněte 8 pro přeposlání této zprávy jinému účastníkovi.
+vm-tohearenv: Stiskněte 3 pro poslech informací o zprávě.
+vm-tomakecall: Stiskněte 4 pro uskutečnění odchozího hovoru.
+vm-tooshort: Vaše zpráva je příliš krátká.
+vm-toreply: Stiskněte 1 pro odeslání odpovědi.
+vm-torerecord: Stiskněte 3 pro nový záznam zprávy.
+vm-undelete: Stiskněte 7 pro obnovení této zprávy.
+vm-undeleted: Zpráva byla obnovena.
+vm-unknown-caller: Od neznámého účastníka.
+vm-whichbox: Pro zanechání zprávy zadejte číslo schránky.
+vm-youhave: Máte
+vm-zprav: zpráv
+vm-zpravu: zprávu
+vm-zpravy: zprávy
+vmnotify-followed-by-pound: a poté stiskněte mřížku.
+vmnotify-goodbye: Děkujeme. Na shledanou.
+vmnotify-greeting: Dobrý den, zde je upozornění z vaší hlasové schránky.
+vmnotify-instructions: Pro poslech zprávy stiskněte 1.
+vmnotify-instructions2: Pro odložení této notifikace stiskněte 2.
+vmnotify-recname: Máte novou hlasovou zprávu.
+vmnotify-thankyou: Děkujeme.
+vmnotify-too-late: Notifikace již není platná.
+vqplus-accept: Stiskněte 1 pro přijetí zpětného volání.
+vqplus-callback: Pro objednání zpětného volání stiskněte 1.
+vqplus-confirmed: Vaše zpětné volání bylo potvrzeno.
+vqplus-enter-name: Prosím zadejte své jméno a stiskněte mřížku.
+vqplus-enter-number: Prosím zadejte své telefonní číslo a stiskněte mřížku.
+with: s
+you-entered: Zadali jste.
+you-will-be-transfered-menu: Budete přepojeni do nabídky.
+your: Vaše.
